@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<head> <center> <b> Đây là danh mục số 1 </b> </center> </head>
+<body> danh mục 1.1  </body>
+<br>
+<img src="../test/image/Gu LY.png" />
+<br>
+<a href="./giao diện">quay lại</a>
+</html>

@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+    <head> <center> <b>Chỉnh Sữa Hình Ảnh</b> </center> </head>
+    <br>
+    <a href="./giao diện"> quay lại </a>
+    <body>
+        <center> <p> Điều chỉnh kích thước của hình ảnh</p>
+        <img src="../test/image/Gu LY.png"
+            alt="abc" 
+            width="700" 
+            height="200" />
+        </center>
+    </body>
+</html>
